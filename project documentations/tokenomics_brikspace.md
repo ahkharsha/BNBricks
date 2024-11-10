@@ -1,8 +1,8 @@
-# **Brikspace Tokenomics**
+# **BNBricks Tokenomics**
 
 ## **1. Introduction**
 
-As **Brikspace** continues to develop and move towards full-scale implementation, the tokenomics structure will be crucial to its success. By utilizing the **GAS** token on the Polygon blockchain, **Brikspace** will create an efficient, scalable, and secure ecosystem that incentivizes participation, facilitates transactions, and ensures long-term sustainability.
+As **BNBricks** continues to develop and move towards full-scale implementation, the tokenomics structure will be crucial to its success. By utilizing the **GAS** token on the Polygon blockchain, **BNBricks** will create an efficient, scalable, and secure ecosystem that incentivizes participation, facilitates transactions, and ensures long-term sustainability.
 
 ---
 
@@ -41,11 +41,11 @@ The **GAS** token will be allocated to ensure a balanced ecosystem that rewards 
 
 ## **4. Utility and Use Cases**
 
-The **GAS** token will be central to the functionality and governance of the **Brikspace** platform:
+The **GAS** token will be central to the functionality and governance of the **BNBricks** platform:
 
 ### **4.1 Transaction Fees**
 
-- **Transaction Costs**: All transactions conducted on the **Brikspace** platform will require **GAS** tokens, ensuring that users are actively engaged in the ecosystem.
+- **Transaction Costs**: All transactions conducted on the **BNBricks** platform will require **GAS** tokens, ensuring that users are actively engaged in the ecosystem.
 - **Fee Reduction**: Users who hold and use **GAS** tokens for transaction fees will be eligible for discounts, encouraging widespread adoption and utility.
 
 ### **4.2 Property Tokenization**
@@ -67,7 +67,7 @@ The **GAS** token will be central to the functionality and governance of the **B
 
 ## **5. Vesting and Release Schedule**
 
-To ensure the long-term viability of **Brikspace**, the distribution of **GAS** tokens will be carefully managed:
+To ensure the long-term viability of **BNBricks**, the distribution of **GAS** tokens will be carefully managed:
 
 ### **5.1 Vesting Period for Team and Advisors**
 
@@ -79,7 +79,7 @@ To ensure the long-term viability of **Brikspace**, the distribution of **GAS** 
   - Tokens will be released to early investors and contributors, providing initial liquidity and funding for the platform’s development.
   
 - **Phase 2**: Platform Launch (25%)
-  - A portion of the tokens will be released to support the official launch of **Brikspace**, with allocations for staking, rewards, and ecosystem growth.
+  - A portion of the tokens will be released to support the official launch of **BNBricks**, with allocations for staking, rewards, and ecosystem growth.
 
 - **Phase 3**: Post-Launch Expansion (60%)
   - The remaining tokens will be gradually released over the next 3-5 years, supporting platform expansion, new features, and continued growth.
@@ -88,7 +88,7 @@ To ensure the long-term viability of **Brikspace**, the distribution of **GAS** 
 
 ## **6. Token Sale Strategy**
 
-**Brikspace** will conduct a token sale to raise funds for the platform’s development and growth:
+**BNBricks** will conduct a token sale to raise funds for the platform’s development and growth:
 
 ### **6.1 Private Sale**
 
@@ -97,12 +97,12 @@ To ensure the long-term viability of **Brikspace**, the distribution of **GAS** 
 
 ### **6.2 Public Sale**
 
-- **Availability**: Open to the broader public, allowing widespread participation in the **Brikspace** ecosystem.
+- **Availability**: Open to the broader public, allowing widespread participation in the **BNBricks** ecosystem.
 - **Pricing**: **GAS** tokens will be offered at a fixed price, with bonuses for early contributors.
 
 ### **6.3 Use of Funds**
 
-- **Development**: Funds raised will be used to complete the development of the **Brikspace** platform, including security audits, UI/UX improvements, and feature enhancements.
+- **Development**: Funds raised will be used to complete the development of the **BNBricks** platform, including security audits, UI/UX improvements, and feature enhancements.
 - **Marketing**: A portion of the funds will be allocated to marketing efforts, driving user adoption and ecosystem growth.
 - **Operations**: Remaining funds will support ongoing operations, ensuring that the platform can scale effectively.
 
@@ -110,9 +110,9 @@ To ensure the long-term viability of **Brikspace**, the distribution of **GAS** 
 
 ## **7. Future Developments**
 
-As **Brikspace** evolves, the tokenomics structure will be revisited to ensure alignment with the platform’s goals and the needs of its users. Potential future developments include:
+As **BNBricks** evolves, the tokenomics structure will be revisited to ensure alignment with the platform’s goals and the needs of its users. Potential future developments include:
 
-- **DeFi Integrations**: Exploring opportunities to integrate **Brikspace** with decentralized finance (DeFi) platforms, allowing users to leverage their **GAS** tokens for lending, borrowing, and yield farming.
+- **DeFi Integrations**: Exploring opportunities to integrate **BNBricks** with decentralized finance (DeFi) platforms, allowing users to leverage their **GAS** tokens for lending, borrowing, and yield farming.
 - **Cross-Chain Compatibility**: Expanding the utility of **GAS** tokens by enabling cross-chain functionality, allowing them to be used on other blockchain networks.
 - **Enhanced Staking Mechanisms**: Introducing new staking models that offer additional rewards and incentives for long-term holders.
 
@@ -120,5 +120,5 @@ As **Brikspace** evolves, the tokenomics structure will be revisited to ensure a
 
 ## **8. Conclusion**
 
-The tokenomics of **Brikspace** is designed to create a sustainable and thriving ecosystem that benefits all participants. By leveraging the power of the Polygon blockchain and the utility of the **GAS** token, **Brikspace** will empower users to engage in secure, transparent, and efficient real estate transactions, while also providing opportunities for governance, staking, and fractional ownership.
+The tokenomics of **BNBricks** is designed to create a sustainable and thriving ecosystem that benefits all participants. By leveraging the power of the Polygon blockchain and the utility of the **GAS** token, **BNBricks** will empower users to engage in secure, transparent, and efficient real estate transactions, while also providing opportunities for governance, staking, and fractional ownership.
 
