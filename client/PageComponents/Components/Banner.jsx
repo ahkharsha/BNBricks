@@ -83,7 +83,7 @@ const Banner = () => {
                       <h5 class="title">
                         <Link href="#">{el.name}</Link>
                       </h5>
-                      <span>{el.worth} EMC</span>
+                      <span>{el.worth} BNB</span>
                     </div>
                   </div>
                 </div>

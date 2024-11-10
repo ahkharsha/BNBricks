@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const NEXT_PUBLIC_EMC_RPC = "https://rpc1-testnet.emc.network";
+const NEXT_PUBLIC_BNB_RPC = "";
 const NEXT_PUBLIC_PRIVATE_KEY = "";
 
 /** @type import('hardhat/config').HardhatUserConfig */
@@ -18,8 +18,8 @@ module.exports = {
     hardhat: {
       chainId: 31337,
     },
-    emc: {
-      url: NEXT_PUBLIC_EMC_RPC,
+    bsc: {
+      url: NEXT_PUBLIC_BNB_RPC,
       accounts: [`0x${NEXT_PUBLIC_PRIVATE_KEY}`],
     },
   },

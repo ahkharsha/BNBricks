@@ -1,1 +1,0 @@
-BNBricks is a decentralized real estate marketplace!!

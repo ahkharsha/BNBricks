@@ -13,8 +13,8 @@ const networks = {
   //   chainId: Waiting for launch...,
   //   chainName: Waiting for launch...,
   //   nativeCurrency: {
-  //     name: "EMC",
-  //     symbol: "EMC",
+  //     name: "BNB",
+  //     symbol: "BNB",
   //     decimals: 18,
   //   },
   //   rpcUrls: Waiting for launch...,
@@ -22,10 +22,10 @@ const networks = {
   // },
   emc_testnet: {
     chainId: `0x${Number(99876).toString(16)}`,
-    chainName: "EMC Testnet",
+    chainName: "BNB Testnet",
     nativeCurrency: {
-      name: "EMC",
-      symbol: "EMC",
+      name: "BNB",
+      symbol: "BNB",
       decimals: 18,
     },
     rpcUrls: ["https://rpc1-testnet.emc.network"],
@@ -159,10 +159,10 @@ const changeNetwork = async ({ networkName }) => {
   }
 };
 
-export const ACTIVE_NETWORK = "emc_testnet";
+export const ACTIVE_NETWORK = "bsc_testnet";
 
 export const handleNetworkSwitch = async () => {
-  const networkName = "emc_testnet";
+  const networkName = "bsc_testnet";
   const network = await changeNetwork({ networkName });
   return networkName;
 };

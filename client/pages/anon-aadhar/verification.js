@@ -114,7 +114,7 @@ export default function AadhaarVerification({ onVerified }) {
               gutterBottom
               sx={{ color: "primary.main" }}
             >
-              briXchange
+              BNBricks
             </Typography>
             <Typography variant="h5" sx={{ color: "secondary.main", mb: 5 }}>
               Your Gateway to Smart Real Estate Deals
@@ -202,7 +202,7 @@ export default function AadhaarVerification({ onVerified }) {
           mt="auto"
         >
           <Typography variant="body1" sx={{ fontSize: "1.2rem" }}>
-            © {new Date().getFullYear()} briXchange. All rights reserved.
+            © {new Date().getFullYear()} BNBricks. All rights reserved.
           </Typography>
           <Button
             variant="outlined"
@@ -220,7 +220,7 @@ export default function AadhaarVerification({ onVerified }) {
               },
             }}
           >
-            briXchange - GitHub
+            BNBricks - GitHub
           </Button>
         </Box>
       </Box>
