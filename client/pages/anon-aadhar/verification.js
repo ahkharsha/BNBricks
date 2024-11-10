@@ -114,7 +114,7 @@ export default function AadhaarVerification({ onVerified }) {
               gutterBottom
               sx={{ color: "primary.main" }}
             >
-              BNBricks
+              EduBricks
             </Typography>
             <Typography variant="h5" sx={{ color: "secondary.main", mb: 5 }}>
               Your Gateway to Smart Real Estate Deals
@@ -202,13 +202,13 @@ export default function AadhaarVerification({ onVerified }) {
           mt="auto"
         >
           <Typography variant="body1" sx={{ fontSize: "1.2rem" }}>
-            © {new Date().getFullYear()} BNBricks. All rights reserved.
+            © {new Date().getFullYear()} EduBricks. All rights reserved.
           </Typography>
           <Button
             variant="outlined"
             color="primary"
             startIcon={<GitHubIcon />}
-            href="https://github.com/ahkharsha/bnbricks"
+            href="https://github.com/ahkharsha/EduBricks"
             target="_blank"
             rel="noopener noreferrer"
             sx={{
@@ -220,7 +220,7 @@ export default function AadhaarVerification({ onVerified }) {
               },
             }}
           >
-            BNBricks - GitHub
+            EduBricks - GitHub
           </Button>
         </Box>
       </Box>
