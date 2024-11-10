@@ -26,10 +26,10 @@ const Header = () => {
                       <Link href="/">Home</Link>
                     </li>
                     <li>
-                      <Link href="https://edubriks.vercel.app/swap">BTC to WBTC</Link>
+                      <Link href="https://bnbriks.vercel.app/swap">BTC to WBTC</Link>
                     </li>
                     <li>
-                      <Link href="https://edubriks.vercel.app/reverse">WBTC to BTC</Link>
+                      <Link href="https://bnbriks.vercel.app/reverse">WBTC to BTC</Link>
                     </li>
                     <li>
                       <a>Explore</a>
@@ -230,7 +230,7 @@ const Header = () => {
                                   </Link>
                                 </h6>
                                 <span className="price">
-                                  {userBlance?.slice(0, 6)} EDU
+                                  {userBlance?.slice(0, 6)} BNB
                                 </span>
                               </div>
                               <div className="button"></div>

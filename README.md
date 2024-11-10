@@ -1,30 +1,30 @@
-# 🏢 **EduBricks** - Invest Smart, Own a Part
+# 🏢 **BNBricks** - Invest Smart, Own a Part
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://edubricks.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/EduBricks)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://bnbricks.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/BNBricks)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
 <img src="https://github.com/user-attachments/assets/1cbac393-80d1-431a-8d0a-fe2255f1bcf5" alt="logo-white" width="40"/>
 
 ---
 
-EduBricks is an innovative blockchain-powered platform designed to revolutionize real estate investments by enabling users to tokenize, trade, and invest in real estate assets with EDU tokens. Built on transparency, security, and ease, EduBricks brings property investments into the decentralized era.
+BNBricks is an innovative blockchain-powered platform designed to revolutionize real estate investments by enabling users to tokenize, trade, and invest in real estate assets with BNB tokens. Built on transparency, security, and ease, BNBricks brings property investments into the decentralized era.
 
 ---
 
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [EduBricks Testnet (Deployed) - edubricks.vercel.app](https://edubricks.vercel.app/)**<br><br>
+<br>**🔗 [BNBricks Testnet (Deployed) - bnbricks.vercel.app](https://bnbricks.vercel.app/)**<br><br>
 
 ---
 
 ## 📜 **Smart Contract**
 
-The Smart Contract is deployed on the EDU Chain Testnet at [0xE10dBa4E70628E2848c70EFE5d763d7F0fd0c931](https://edu-chain-testnet.blockscout.com/address/0xE10dBa4E70628E2848c70EFE5d763d7F0fd0c931).  
+The Smart Contract is deployed on the BNB Smart Chain Testnet at [0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1](https://testnet.bscscan.com/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1).  
 Visit the link below to view it on the explorer!
 
-**🔗 [EduBricks Smart Contract](https://edu-chain-testnet.blockscout.com/address/0xE10dBa4E70628E2848c70EFE5d763d7F0fd0c931)**
+**🔗 [BNBricks Smart Contract](https://testnet.bscscan.com/address/0xb06cbBeAE36EdBa7a14D733E8aE922a29630c7C1)**
 
 ---
 
@@ -47,7 +47,7 @@ Visit the link below to view it on the explorer!
 
 - **Fractional Ownership**: Invest in real estate by purchasing fractional shares of tokenized assets.
 - **Decentralized Governance**: Participate in platform decisions through a decentralized voting mechanism.
-- **Staking Rewards**: Earn rewards by staking your EDU tokens within the ecosystem.
+- **Staking Rewards**: Earn rewards by staking your BNB tokens within the ecosystem.
 - **Secure Transactions**: All transactions are verified and secured on the blockchain, ensuring transparency and trust.
 - **User Privacy**: Utilizes the Anon Aadhaar SDK for privacy-preserving user verification.
 
@@ -55,14 +55,14 @@ Visit the link below to view it on the explorer!
 
 ## 🎯 **Project Vision**
 
-Our vision is to democratize real estate investment by leveraging blockchain technology. **EduBricks** enables anyone to participate in property investments with fractional ownership, ensuring inclusivity and transparency in every transaction.
+Our vision is to democratize real estate investment by leveraging blockchain technology. **BNBricks** enables anyone to participate in property investments with fractional ownership, ensuring inclusivity and transparency in every transaction.
 
 ---
 
 ## ⚙️ **Technologies Used**
 
-- **Blockchain**: EDU Chain Testnet
-- **Token**: EDU
+- **Blockchain**: BNB Smart Chain Testnet
+- **Token**: BNB
 - **Smart Contracts**: Solidity
 - **Frontend**: Next.js, CSS
 - **Privacy**: Anon Aadhaar SDK
@@ -77,8 +77,8 @@ Our vision is to democratize real estate investment by leveraging blockchain tec
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/ahkharsha/EduBricks.git
-    cd EduBricks
+    git clone https://github.com/ahkharsha/BNBricks.git
+    cd BNBricks
     ```
 
 2. **Navigating to client**
@@ -114,12 +114,12 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ### **3. Conduct Transactions**
 
-- Buy and sell fractional property tokens using EDU on the EDU Chain Testnet T4.
+- Buy and sell fractional property tokens using BNB on the BNB Smart Chain Testnet T4.
 - Enjoy low transaction fees and fast confirmation times.
 
 ### **4. Staking and Rewards**
 
-- Stake EDU tokens to earn rewards and access premium features.
+- Stake BNB tokens to earn rewards and access premium features.
 - Participate in platform governance by voting on proposals.
 
 ---
@@ -135,12 +135,12 @@ Your application will be up and running at `http://localhost:3000` 🚀
 ### **Phase 2: Beta Launch**
 
 - ✅ Integrate Garden SDK
-- ✅ Deploy on EDU Chain Testnet
+- ✅ Deploy on BNB Smart Chain Testnet
 - ✅ Launch beta version for selected users
 
 ### **Phase 3: Public Launch**
 
-- ⬜ Deploy on EDU Chain Mainnet
+- ⬜ Deploy on BNB Mainnet
 - ⬜ Launch marketing campaign
 - ⬜ Introduce staking and rewards features
 
@@ -148,7 +148,14 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/EduBricks/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/BNBricks/blob/main/LICENSE) file for details.
+
+---
+
+## 📄 **Documentation**
+
+For more detailed information, please refer to the project whitepaper, deck, litepaper, and tokenomics:  
+**📄 [BNBricks Documents](https://drive.google.com/drive/folders/1Vs9ZaiLUiNKQb6Ddm6L0_gjeULd55EXu?usp=drive_link)**
 
 ---
 
@@ -158,7 +165,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [EduBricks](https://edubricks.vercel.app/)
+- **Project Website**: [BNBricks](https://bnbricks.vercel.app/)
 
 ---
 

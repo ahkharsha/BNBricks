@@ -1,14 +1,14 @@
-# **EduBricks Tokenomics**
+# **BNBricks Tokenomics**
 
 ## **1. Introduction**
 
-As **EduBricks** continues to develop and move towards full-scale implementation, the tokenomics structure will be crucial to its success. By utilizing the **EDU** token on the Polygon blockchain, **EduBricks** will create an efficient, scalable, and secure ecosystem that incentivizes participation, facilitates transactions, and ensures long-term sustainability.
+As **BNBricks** continues to develop and move towards full-scale implementation, the tokenomics structure will be crucial to its success. By utilizing the **BNB** token on the Polygon blockchain, **BNBricks** will create an efficient, scalable, and secure ecosystem that incentivizes participation, facilitates transactions, and ensures long-term sustainability.
 
 ---
 
 ## **2. Token Overview**
 
-- **Token Name**: EDU Token (EDU)
+- **Token Name**: BNB Token (BNB)
 - **Blockchain**: Polygon (Layer 2 solution on Ethereum)
 - **Token Type**: Utility Token
 - **Primary Use Cases**:
@@ -21,13 +21,13 @@ As **EduBricks** continues to develop and move towards full-scale implementation
 
 ## **3. Token Allocation**
 
-The **EDU** token will be allocated to ensure a balanced ecosystem that rewards early adopters, incentivizes platform growth, and reserves tokens for future development and operational needs:
+The **BNB** token will be allocated to ensure a balanced ecosystem that rewards early adopters, incentivizes platform growth, and reserves tokens for future development and operational needs:
 
 ### **3.1 Allocation Breakdown**
 
-- **Platform Operations and Development (40%)**: A significant portion of the **EDU** tokens will be reserved to fund future platform upgrades, the development of new features, and to cover operational costs.
+- **Platform Operations and Development (40%)**: A significant portion of the **BNB** tokens will be reserved to fund future platform upgrades, the development of new features, and to cover operational costs.
   
-- **Staking and Rewards (20%)**: Users will be encouraged to stake their **EDU** tokens in return for rewards, fostering a stable ecosystem and promoting long-term holding.
+- **Staking and Rewards (20%)**: Users will be encouraged to stake their **BNB** tokens in return for rewards, fostering a stable ecosystem and promoting long-term holding.
 
 - **Ecosystem Growth and Partnerships (15%)**: This allocation will be used for strategic partnerships, marketing initiatives, and onboarding new users to the platform.
 
@@ -41,33 +41,33 @@ The **EDU** token will be allocated to ensure a balanced ecosystem that rewards 
 
 ## **4. Utility and Use Cases**
 
-The **EDU** token will be central to the functionality and governance of the **EduBricks** platform:
+The **BNB** token will be central to the functionality and governance of the **BNBricks** platform:
 
 ### **4.1 Transaction Fees**
 
-- **Transaction Costs**: All transactions conducted on the **EduBricks** platform will require **EDU** tokens, ensuring that users are actively engaged in the ecosystem.
-- **Fee Reduction**: Users who hold and use **EDU** tokens for transaction fees will be eligible for discounts, encouraging widespread adoption and utility.
+- **Transaction Costs**: All transactions conducted on the **BNBricks** platform will require **BNB** tokens, ensuring that users are actively engaged in the ecosystem.
+- **Fee Reduction**: Users who hold and use **BNB** tokens for transaction fees will be eligible for discounts, encouraging widespread adoption and utility.
 
 ### **4.2 Property Tokenization**
 
-- **Fractional Ownership**: **EDU** tokens will be used to purchase fractional ownership of tokenized real estate assets, allowing users to diversify their portfolios with ease.
-- **Liquidity**: Tokenized real estate assets will be tradable on the platform, with **EDU** tokens serving as the primary medium of exchange.
+- **Fractional Ownership**: **BNB** tokens will be used to purchase fractional ownership of tokenized real estate assets, allowing users to diversify their portfolios with ease.
+- **Liquidity**: Tokenized real estate assets will be tradable on the platform, with **BNB** tokens serving as the primary medium of exchange.
 
 ### **4.3 Governance and Voting**
 
-- **Decentralized Governance**: **EDU** token holders will have the right to participate in governance decisions, including platform upgrades, new feature proposals, and changes to transaction fees.
-- **Voting Power**: The number of **EDU** tokens held will determine voting power, ensuring that stakeholders with a significant investment have a proportional influence on the platform’s future.
+- **Decentralized Governance**: **BNB** token holders will have the right to participate in governance decisions, including platform upgrades, new feature proposals, and changes to transaction fees.
+- **Voting Power**: The number of **BNB** tokens held will determine voting power, ensuring that stakeholders with a significant investment have a proportional influence on the platform’s future.
 
 ### **4.4 Staking and Rewards**
 
-- **Staking Rewards**: Users will be able to stake their **EDU** tokens in dedicated pools to earn rewards, promoting long-term holding and stability within the ecosystem.
+- **Staking Rewards**: Users will be able to stake their **BNB** tokens in dedicated pools to earn rewards, promoting long-term holding and stability within the ecosystem.
 - **Incentivizing Participation**: Staking will also grant users access to exclusive features and benefits on the platform, such as premium property listings and advanced analytics.
 
 ---
 
 ## **5. Vesting and Release Schedule**
 
-To ensure the long-term viability of **EduBricks**, the distribution of **EDU** tokens will be carefully managed:
+To ensure the long-term viability of **BNBricks**, the distribution of **BNB** tokens will be carefully managed:
 
 ### **5.1 Vesting Period for Team and Advisors**
 
@@ -79,7 +79,7 @@ To ensure the long-term viability of **EduBricks**, the distribution of **EDU** 
   - Tokens will be released to early investors and contributors, providing initial liquidity and funding for the platform’s development.
   
 - **Phase 2**: Platform Launch (25%)
-  - A portion of the tokens will be released to support the official launch of **EduBricks**, with allocations for staking, rewards, and ecosystem growth.
+  - A portion of the tokens will be released to support the official launch of **BNBricks**, with allocations for staking, rewards, and ecosystem growth.
 
 - **Phase 3**: Post-Launch Expansion (60%)
   - The remaining tokens will be gradually released over the next 3-5 years, supporting platform expansion, new features, and continued growth.
@@ -88,7 +88,7 @@ To ensure the long-term viability of **EduBricks**, the distribution of **EDU** 
 
 ## **6. Token Sale Strategy**
 
-**EduBricks** will conduct a token sale to raise funds for the platform’s development and growth:
+**BNBricks** will conduct a token sale to raise funds for the platform’s development and growth:
 
 ### **6.1 Private Sale**
 
@@ -97,12 +97,12 @@ To ensure the long-term viability of **EduBricks**, the distribution of **EDU** 
 
 ### **6.2 Public Sale**
 
-- **Availability**: Open to the broader public, allowing widespread participation in the **EduBricks** ecosystem.
-- **Pricing**: **EDU** tokens will be offered at a fixed price, with bonuses for early contributors.
+- **Availability**: Open to the broader public, allowing widespread participation in the **BNBricks** ecosystem.
+- **Pricing**: **BNB** tokens will be offered at a fixed price, with bonuses for early contributors.
 
 ### **6.3 Use of Funds**
 
-- **Development**: Funds raised will be used to complete the development of the **EduBricks** platform, including security audits, UI/UX improvements, and feature enhancements.
+- **Development**: Funds raised will be used to complete the development of the **BNBricks** platform, including security audits, UI/UX improvements, and feature enhancements.
 - **Marketing**: A portion of the funds will be allocated to marketing efforts, driving user adoption and ecosystem growth.
 - **Operations**: Remaining funds will support ongoing operations, ensuring that the platform can scale effectively.
 
@@ -110,15 +110,15 @@ To ensure the long-term viability of **EduBricks**, the distribution of **EDU** 
 
 ## **7. Future Developments**
 
-As **EduBricks** evolves, the tokenomics structure will be revisited to ensure alignment with the platform’s goals and the needs of its users. Potential future developments include:
+As **BNBricks** evolves, the tokenomics structure will be revisited to ensure alignment with the platform’s goals and the needs of its users. Potential future developments include:
 
-- **DeFi Integrations**: Exploring opportunities to integrate **EduBricks** with decentralized finance (DeFi) platforms, allowing users to leverage their **EDU** tokens for lending, borrowing, and yield farming.
-- **Cross-Chain Compatibility**: Expanding the utility of **EDU** tokens by enabling cross-chain functionality, allowing them to be used on other blockchain networks.
+- **DeFi Integrations**: Exploring opportunities to integrate **BNBricks** with decentralized finance (DeFi) platforms, allowing users to leverage their **BNB** tokens for lending, borrowing, and yield farming.
+- **Cross-Chain Compatibility**: Expanding the utility of **BNB** tokens by enabling cross-chain functionality, allowing them to be used on other blockchain networks.
 - **Enhanced Staking Mechanisms**: Introducing new staking models that offer additional rewards and incentives for long-term holders.
 
 ---
 
 ## **8. Conclusion**
 
-The tokenomics of **EduBricks** is designed to create a sustainable and thriving ecosystem that benefits all participants. By leveraging the power of the Polygon blockchain and the utility of the **EDU** token, **EduBricks** will empower users to engage in secure, transparent, and efficient real estate transactions, while also providing opportunities for governance, staking, and fractional ownership.
+The tokenomics of **BNBricks** is designed to create a sustainable and thriving ecosystem that benefits all participants. By leveraging the power of the Polygon blockchain and the utility of the **BNB** token, **BNBricks** will empower users to engage in secure, transparent, and efficient real estate transactions, while also providing opportunities for governance, staking, and fractional ownership.
 
