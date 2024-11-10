@@ -9,28 +9,6 @@ export const PINATA_SECRET_KEY = "ce9bea71753244b0e67a0b3039e09889b69d15b863d25f
 
 // NETWORK
 const networks = {
-  // emc_mainnet: {
-  //   chainId: Waiting for launch...,
-  //   chainName: Waiting for launch...,
-  //   nativeCurrency: {
-  //     name: "BNB",
-  //     symbol: "BNB",
-  //     decimals: 18,
-  //   },
-  //   rpcUrls: Waiting for launch...,
-  //   blockExplorerUrls: Waiting for launch...,
-  // },
-  emc_testnet: {
-    chainId: `0x${Number(99876).toString(16)}`,
-    chainName: "BNB Testnet",
-    nativeCurrency: {
-      name: "BNB",
-      symbol: "BNB",
-      decimals: 18,
-    },
-    rpcUrls: ["https://rpc1-testnet.emc.network"],
-    blockExplorerUrls: ["https://testnet.emcscan.com"],
-  },
   polygon_amoy: {
     chainId: `0x${Number(80002).toString(16)}`,
     chainName: "Polygon Amoy",
