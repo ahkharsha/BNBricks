@@ -9,7 +9,7 @@ As **BNBricks** continues to develop and move towards full-scale implementation,
 ## **2. Token Overview**
 
 - **Token Name**: BNB Token (BNB)
-- **Blockchain**: Polygon (Layer 2 solution on Ethereum)
+- **Blockchain**: BNB Smart Chain Testnet
 - **Token Type**: Utility Token
 - **Primary Use Cases**:
   - Transaction fees
